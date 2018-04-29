@@ -1,3 +1,8 @@
+/* Implementación del movimiento de los tres motores de la impresora 3D para formar un cuadrado */
+
+/* Este código se encuentra bajo una licencia de Creative Commons
+   en la modalidad "Atribución/Compartir Igual" */
+
 #define IN1  11
 #define IN2  10
 #define IN3  9
